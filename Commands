@@ -1,0 +1,20 @@
+# Galaxy-Music
+Official Galaxy Gaming Discord Music Bot Commands
+,afk [afk] ~ 24/7
+,help [command] ~ To show all commands
+,invite [invite] ~ Invite Link
+,loop loop ~ Toggle music loop
+,lyrics [lyrics] ~ Get lyrics for the currently playing song
+,nowplaying  ~ To show the music which is currently playing in this server
+,pause [pause] ~ To pause the current music in the server
+,play <YouTube_URL> | <song_name> ~ To play songs :D
+,playlist <YouTube Playlist URL | Playlist Name> ~ To play songs :D
+,queue  ~ To show the server songs queue
+,remove rm <number> ~ Remove song from the queue
+,resume  ~ To resume the paused music
+,search <song_name> ~ To search songs :D
+,shuffle [shuffle] ~ Shuffle queue
+,skip  ~ To skip the current music
+,skipto skipto <number> ~ Skip to the selected queue number
+,stop  ~ To stop the music and clearing the queue
+,volume [volume] ~ To change the server song queue volume
